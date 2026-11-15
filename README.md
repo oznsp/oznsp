@@ -1,6 +1,6 @@
 # Hey there! ![Hi](https://emoji.discadia.com/emojis/ce3e605f-1ef7-4db5-b426-1420c2b01862.gif)
 
-I'm Enzo, a design student and creative vibe coder.
+I'm oznsp, a design student and creative vibe coder.
 
 I enjoy exploring new technologies, experimenting with AI, and turning ideas into real projects.
 
