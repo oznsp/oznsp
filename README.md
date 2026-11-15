@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! ![Hi](https://emoji.discadia.com/emojis/ce3e605f-1ef7-4db5-b426-1420c2b01862.gif)
 
-<!--
-**oznsp/oznsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Enzo, a design student and creative vibe coder.
 
-Here are some ideas to get you started:
+I enjoy exploring new technologies, experimenting with AI, and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like combining design, creativity and technology to build things that are useful, simple and well-designed.
+
+This is where I share my projects, experiments and things I'm currently working on.
+
+---
+
+### Tools & Workflow
+
+- Claude & AI-assisted development
+- GitHub
+- Creative tools & design
+- Exploring new technologies
+
+---
+
+### A Bit About Me
+
+- 🎨 Passionate about design and creativity
+- 💻 Interested in software and technology
+- 🚀 Always experimenting with new ideas
+- 🧠 Learning by building
+
+---
+
+*Making ideas real, one project at a time.*
